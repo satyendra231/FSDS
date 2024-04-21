@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: RegressorProject
+Version: 0.0.1
+Author: Satyendra
+Author-email: satyendrapsr.99@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: flask
